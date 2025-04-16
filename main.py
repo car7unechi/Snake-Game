@@ -1,3 +1,15 @@
+"""
+snake_game.py
+
+A simple Snake game built with Python using the turtle graphics module.
+The snake moves around the screen, eats randomly spawned food, and grows longer.
+The game ends when the snake collides with the wall or itself.
+
+Author: Mbeta Sokolo
+GitHub: https://github.com/car7unechi/Snake-Game
+Date: 2025-04-16
+"""
+
 from turtle import Turtle, Screen
 import time
 import random
